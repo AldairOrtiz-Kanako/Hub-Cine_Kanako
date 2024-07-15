@@ -1,4 +1,16 @@
-# HubMovies
+# Hub_Kanako
+Hub de entretenimiento para el programa de semilleros de mega
+
+#Instalación
+*Descarga del repositorio
+*Descomprimir ya que se descarga en .zip
+*Tener las versiones más recientes de angular, npm y node
+*Abrir en Visual Stdio Code
+
+#Retrospectida del proyecto
+
+#¿Que Salio Bien?
+Es la primera vez que interactuo con Angular y TypeScript, me resulto curioso el comportamiento de el framework, el estar investigando como poder seguir y solucionando errores con los cuales nunca me había encontrado
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 18.1.0.
 
