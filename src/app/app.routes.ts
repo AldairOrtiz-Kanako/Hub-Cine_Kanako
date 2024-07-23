@@ -14,7 +14,7 @@ export const routes: Routes = [
     {
         path:"browse",
         component:BrowseComponent,
-         canActivate:[authGuard]
+        canActivate:[authGuard],
     },
     {
         path:"**",
